@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MerhabaDunya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dfd87ac3bf030963ac591535fad5ab510a96cf4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MerhabaDunya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MerhabaDunya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

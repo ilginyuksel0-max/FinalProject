@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "93l/cRavw8M=",
+  "dgSpecHash": "fCHPRU16Z78=",
   "success": true,
   "projectFilePath": "/Users/ilginyuksel/MerhabaDunya/MerhabaDunya.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,14 @@
     "/Users/ilginyuksel/.nuget/packages/microsoft.maui.graphics/10.0.1/microsoft.maui.graphics.10.0.1.nupkg.sha512",
     "/Users/ilginyuksel/.nuget/packages/microsoft.maui.resizetizer/10.0.1/microsoft.maui.resizetizer.10.0.1.nupkg.sha512",
     "/Users/ilginyuksel/.nuget/packages/microsoft.net.illink.tasks/10.0.1/microsoft.net.illink.tasks.10.0.1.nupkg.sha512",
+    "/Users/ilginyuksel/.nuget/packages/sqlite-net-pcl/1.9.172/sqlite-net-pcl.1.9.172.nupkg.sha512",
+    "/Users/ilginyuksel/.nuget/packages/sqlitepclraw.bundle_green/2.1.2/sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
+    "/Users/ilginyuksel/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "/Users/ilginyuksel/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/ilginyuksel/.nuget/packages/sqlitepclraw.lib.e_sqlite3.android/2.1.2/sqlitepclraw.lib.e_sqlite3.android.2.1.2.nupkg.sha512",
+    "/Users/ilginyuksel/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.2/sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/ilginyuksel/.nuget/packages/sqlitepclraw.provider.sqlite3/2.1.2/sqlitepclraw.provider.sqlite3.2.1.2.nupkg.sha512",
+    "/Users/ilginyuksel/.nuget/packages/system.runtime.interopservices.nfloat.internal/6.0.1/system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
     "/Users/ilginyuksel/.nuget/packages/xamarin.android.glide/4.16.0.14/xamarin.android.glide.4.16.0.14.nupkg.sha512",
     "/Users/ilginyuksel/.nuget/packages/xamarin.android.glide.annotations/4.16.0.14/xamarin.android.glide.annotations.4.16.0.14.nupkg.sha512",
     "/Users/ilginyuksel/.nuget/packages/xamarin.android.glide.disklrucache/4.16.0.14/xamarin.android.glide.disklrucache.4.16.0.14.nupkg.sha512",
