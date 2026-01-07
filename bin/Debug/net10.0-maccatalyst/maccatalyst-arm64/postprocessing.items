@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MerhabaDunya.app/Contents/MacOS/MerhabaDunya">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>MerhabaDunya.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MerhabaDunya.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/ilginyuksel/MerhabaDunya/obj/Debug/net10.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>MerhabaDunya.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/ilginyuksel/MerhabaDunya</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
